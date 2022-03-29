@@ -1,27 +1,28 @@
-# package_name
+# measure_converter
 
 Description. 
-The package package_name is used to:
+The package measure_converter is used to:
 	- 
 	-
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install measure_converter
 
 ```bash
-pip install package_name
+pip install measure_converter
 ```
 
 ## Usage
 
-```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+```python - conversão de valores
+
+from measure_converter.calculus import calc
+calculus.calc()
 ```
 
 ## Author
-My_name
+Wellington Eugenio
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
